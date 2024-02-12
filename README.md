@@ -25,3 +25,7 @@ The app is ready for deployment on the following platforms:
 Android
 iOS
 Web
+
+Citation
+I developed this project by following the course designed by Coding Liquids on Udemy. Gonna say thank you to them for the great instruction and content.
+
