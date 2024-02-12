@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paulina_knop/components.dart';
+import 'package:shiran_portfolio/components.dart';
 
 class ContactWeb extends StatefulWidget {
   const ContactWeb({Key? key}) : super(key: key);

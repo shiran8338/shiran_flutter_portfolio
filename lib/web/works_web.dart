@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paulina_knop/components.dart';
+import 'package:shiran_portfolio/components.dart';
 
 class WorksWeb extends StatefulWidget {
   const WorksWeb({Key? key}) : super(key: key);

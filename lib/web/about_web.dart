@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paulina_knop/components.dart';
+import 'package:shiran_portfolio/components.dart';
 
 class AboutWeb extends StatefulWidget {
   const AboutWeb({Key? key}) : super(key: key);
@@ -40,7 +40,7 @@ class _AboutWebState extends State<AboutWeb> {
                     SansBold("About me", 40.0),
                     SizedBox(height: 15.0),
                     Sans(
-                        "Hello! I'm Paulina Knop I specialize in flutter development.",
+                        "Hello! I'm Shiran Wang I specialize in flutter development.",
                         15.0),
                     Sans(
                         "I strive to ensure astounding performance with state of",

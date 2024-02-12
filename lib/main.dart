@@ -1,15 +1,15 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:paulina_knop/routes.dart';
+import 'package:shiran_portfolio/routes.dart';
 import 'package:url_strategy/url_strategy.dart';
 
 import 'firebase_options.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized(); //make sure all the files are initialized before we continue running the app
   setPathUrlStrategy();
 
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform); //figure out which platform the firebase is currently running on
 
   runApp(const MyApp());
 }

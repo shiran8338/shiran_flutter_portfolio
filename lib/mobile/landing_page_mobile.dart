@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paulina_knop/components.dart';
+import 'package:shiran_portfolio/components.dart';
 
 class LandingPageMobile extends StatefulWidget {
   const LandingPageMobile({Key? key}) : super(key: key);
@@ -57,7 +57,7 @@ class _LandingPageMobileState extends State<LandingPageMobile> {
                             vertical: 10.0, horizontal: 20.0),
                         child: SansBold("Hello I'm", 15.0),
                       ),
-                      SansBold("Paulina Knop", 40.0),
+                      SansBold("Shiran Wang", 40.0),
                       Sans("Flutter developer", 20.0),
                     ],
                   ),
@@ -79,9 +79,9 @@ class _LandingPageMobileState extends State<LandingPageMobile> {
                         direction: Axis.vertical,
                         spacing: 9.0,
                         children: [
-                          Sans("paulinaknop@gmail.com", 15.0),
-                          Sans("+48 942 564 985", 15.0),
-                          Sans("13/3, Szczecin, Poland", 15.0),
+                          Sans("shiranw2023@gmail.com", 15.0),
+                          Sans("+1 805 837 4833", 15.0),
+                          Sans("Irvine, California", 15.0),
                         ],
                       )
                     ],
@@ -100,7 +100,7 @@ class _LandingPageMobileState extends State<LandingPageMobile> {
                 children: [
                   SansBold("About me", 35.0),
                   Sans(
-                      "Hello! I'm Paulina Knop I specialize in flutter development",
+                      "Hi! I'm Shiran, and I am a web developer",
                       15.0),
                   Sans(
                       "I strive to ensure astounding performance with state of ",

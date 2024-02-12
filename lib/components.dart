@@ -177,17 +177,17 @@ class DrawersWeb extends StatelessWidget {
             ),
           ),
           SizedBox(height: 15.0),
-          SansBold("Paulina Knop", 30.0),
+          SansBold("Shiran", 30.0),
           SizedBox(height: 15.0),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               urlLauncher("assets/instagram.svg",
-                  "https://www.instagram.com/tomcruise/"),
+                  "https://www.instagram.com"),
               urlLauncher(
-                  "assets/twitter.svg", "https://www.twitter.com/tomcruise"),
+                  "assets/twitter.svg", "https://www.twitter.com"),
               urlLauncher("assets/github.svg",
-                  "https://github.com/sagnik150699/paulina_knop"),
+                  "https://github.com"),
             ],
           ),
         ],
@@ -231,11 +231,11 @@ class DrawersMobile extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               urlLauncher("assets/instagram.svg",
-                  "https://www.instagram.com/tomcruise/"),
+                  "https://www.instagram.com/"),
               urlLauncher(
-                  "assets/twitter.svg", "https://www.twitter.com/tomcruise"),
+                  "assets/twitter.svg", "https://www.twitter.com/"),
               urlLauncher("assets/github.svg",
-                  "https://github.com/sagnik150699/paulina_knop"),
+                  "https://github.com/"),
             ],
           )
         ],

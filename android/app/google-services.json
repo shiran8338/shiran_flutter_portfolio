@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "555718417628",
-    "project_id": "portfolio-782e9",
-    "storage_bucket": "portfolio-782e9.appspot.com"
+    "project_number": "21798942357",
+    "project_id": "shiranportfolio",
+    "storage_bucket": "shiranportfolio.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:555718417628:android:5cfdce50bfdb4bd24be819",
+        "mobilesdk_app_id": "1:21798942357:android:9867ad74f6928520220d9c",
         "android_client_info": {
-          "package_name": "paulinaknop.com.paulina_knop"
+          "package_name": "shiranportfolio.com.shiran_portfolio"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCJemnZV4Seo9n_atjl-FIrGEKa1yf95Ww"
+          "current_key": "AIzaSyAYy6UDtyHljimXKp4_vgsuMrJKFkKKw7c"
         }
       ],
       "services": {
